@@ -1,18 +1,18 @@
 ---
 submission_id: 499
-title: Digital History Switzerland 2024 submission title
+title: Learning to Read Digital? Constellations of Correspondence Project and Humanist Perspectives on the Aggregated 19th-century Finnish Letter Metadata
 author:
-  - name: Petra Huber
-    orcid: 0000-0002-0760-5497
-    email: petra.huber@university.ch
+  - name: Hanna-Leena Paloposki
+    orcid: 0000
+    email: hanna-leena.paloposki@finlit.fi
     affiliations:
-      - University 1
-  - name: Michel Meier
-    orcid: 0000-0002-7859-8394
-    email: michel.meier@university.edu
+      - the Finnish Literature Society, Helsinki, Finland
+  - name: Ilona Pikkanen
+    orcid: 0000-0001-9435-7163
+    email: ilona.pikkanen@finlit.fi
     affiliations:
-      - University 1
-      - University 2
+      - The Finnish Literature Society, Helsinki, Finland
+
 keywords:
   - Keyword 1
   - Keyword 2
@@ -32,6 +32,10 @@ bibliography: references.bib
 ## Introduction
 
 This is a placeholder for the extended abstract of the paper. It should be between 1500 and 2000 words (excluding references).
+
+We will address digital literacy from two perspectives: first, from our own experiences as Humanists in a digital environment. What kinds of procedures are needed to ensure correct and traceable decisions in the data transformation pipeline and to detect the inevitable errors in the data and their origin in a systematic way?
+Second, we will explore experiences of the first test group of the portal that will gain access to the data in early 2024. How did we construct a functioning, well-motivated users’ community? What kinds of guidelines and activities are needed to make our decisions in processing data and the UI still under construction understandable? The members of the test group will mostly be humanists with no experience in digital humanities projects and research related to them. How well does the available metadata respond to their research questions and do they nurture innovative new research? Humanists still often tend to use criteria of close reading for distant reading, a perspective that we should overcome in order to learn to read digital.
+
 
 Check <https://quarto.org/docs/authoring/markdown-basics.html> for more information on how to use markdown, <https://quarto.org/docs/authoring/cross-references.html> for more information on how to use cross-references like this (See @fig-example and @fig-plots), and <https://quarto.org/docs/authoring/footnotes-and-citations.html> for more information on how to use citations like this one [@haber2011, p. 11].
 
