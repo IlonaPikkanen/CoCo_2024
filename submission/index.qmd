@@ -54,9 +54,9 @@ The feedback provided us with an insight into the difficulties that users, both 
 
 Check <https://quarto.org/docs/authoring/markdown-basics.html> for more information on how to use markdown, <https://quarto.org/docs/authoring/cross-references.html> for more information on how to use cross-references like this (See @fig-example and @fig-plots), and <https://quarto.org/docs/authoring/footnotes-and-citations.html> for more information on how to use citations like this one [@haber2011, p. 11].
 
-::: {#fig-example}
+::: {#CoCo_portal}
 
-![Figure caption text.](images/placeholder.png)
+![Figure caption text.](Screenshot of the CoCo portal)
 
 :::
 
