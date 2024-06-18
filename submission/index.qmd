@@ -14,9 +14,9 @@ author:
       - The Finnish Literature Society, Helsinki, Finland
 
 keywords:
-  - Keyword 1 
-  - Keyword 2
-  - Keyword 3
+  - Keyword 1 Semantic web portal
+  - Keyword 2 interdisciplinary collaboration
+  - Keyword 3 user testing survey
   - Keyword 4 (optional)
   - Keyword 5 (optional)
 abstract: |
